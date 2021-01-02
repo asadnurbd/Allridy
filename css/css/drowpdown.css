@@ -1,0 +1,20 @@
+
+
+nav ul li ul{
+background:#D8DBDA;
+display:none;
+position: absolute;
+border-radius:2px;
+}
+nav ul li:hover ul{
+display: block;
+}
+nav ul li ul li{
+float:none;
+
+}
+
+nav ul li ul li:hover a{
+color:yellow;
+width:150px;
+}
